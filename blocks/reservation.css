@@ -21,4 +21,5 @@
 .reservation__form {
   margin: 0 auto;
   margin-bottom: 120px;
+  max-width: 385px;
 }
