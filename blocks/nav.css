@@ -26,3 +26,8 @@
   color: #000;
   text-decoration: none;
 }
+
+.nav__link:hover {
+  opacity: 50%;
+  transition: opacity 0.5s;
+}
